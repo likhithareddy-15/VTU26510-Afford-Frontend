@@ -1,4 +1,4 @@
-# Premium Doctor Appointment Booking System
+# Doctor Appointment Booking System
 
 A modern, full-stack healthcare dashboard built with **React** (frontend) and **Node.js/Express** (backend). This application has been optimized and stylized into a production-grade clinic management tool, perfect for assessment submissions.
 
