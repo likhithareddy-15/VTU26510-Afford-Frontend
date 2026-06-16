@@ -4,7 +4,7 @@ A modern, full-stack healthcare dashboard built with **React** (frontend) and **
 
 ---
 
-## 🌟 Premium Features
+## 🌟 Features
 
 ### Frontend (React Dashboard)
 * **SaaS Analytics Overview**: Four live KPI metric cards tracking *Available Doctors*, *Total Appointments*, *Queue Status*, and *Avg Clinic Rating*.
